@@ -9,4 +9,8 @@ This repository is created reinforce the concepts and skills acquired during the
 
 Training compiled by Natnael Argaw (PhD)
 Nov 20, 2023
+
+* First Commit From local git to feature-branch
+* Second Commit From local git to feature-branch
+* Third Commit from local git to feature-branch
 /This text is Switch back to the main branch and make a change in the README.md file/ 
